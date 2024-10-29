@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web/IoPruebaMySQL/IoPruebaMySQL.iml" filepath="$PROJECT_DIR$/web/IoPruebaMySQL/IoPruebaMySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PROYECTO_zarape.iml" filepath="$PROJECT_DIR$/.idea/PROYECTO_zarape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/web/Programa1/Programa1.iml" filepath="$PROJECT_DIR$/build/web/Programa1/Programa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/Programa1/Programa2.iml" filepath="$PROJECT_DIR$/web/Programa1/Programa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/web/zarape_controller/zarape_controller.iml" filepath="$PROJECT_DIR$/build/web/zarape_controller/zarape_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/zarape_controller/zarape_controller2.iml" filepath="$PROJECT_DIR$/web/zarape_controller/zarape_controller2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/web/zarape_model/zarape_model.iml" filepath="$PROJECT_DIR$/build/web/zarape_model/zarape_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/zarape_model1/zarape_model1.iml" filepath="$PROJECT_DIR$/web/zarape_model1/zarape_model1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/web/zarape_model1/zarape_model2.iml" filepath="$PROJECT_DIR$/build/web/zarape_model1/zarape_model2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/zarape_model/zarape_model3.iml" filepath="$PROJECT_DIR$/web/zarape_model/zarape_model3.iml" />
+    </modules>
+  </component>
+</project>
